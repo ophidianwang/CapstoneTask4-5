@@ -1,0 +1,783 @@
+kick ass exist in 12.0 restaurants, accumulate stars: 42.5
+scallops sea exist in 1.0 restaurants, accumulate stars: 3.0
+truffle roasted exist in 1.0 restaurants, accumulate stars: 4.0
+beef rice exist in 20.0 restaurants, accumulate stars: 67.5
+clam sauce exist in 1.0 restaurants, accumulate stars: 3.5
+almond chicken exist in 47.0 restaurants, accumulate stars: 165.5
+chocolate cake exist in 24.0 restaurants, accumulate stars: 81.5
+beans and rice exist in 3.0 restaurants, accumulate stars: 10.5
+light rail exist in 14.0 restaurants, accumulate stars: 49.0
+speck exist in 1.0 restaurants, accumulate stars: 1.5
+bacon exist in 57.0 restaurants, accumulate stars: 191.0
+the dimsum exist in 22.0 restaurants, accumulate stars: 73.0
+dim sum exist in 154.0 restaurants, accumulate stars: 519.0
+enchiladas exist in 10.0 restaurants, accumulate stars: 33.5
+white wine exist in 16.0 restaurants, accumulate stars: 55.5
+chili powder exist in 8.0 restaurants, accumulate stars: 29.5
+chinese culture exist in 15.0 restaurants, accumulate stars: 50.5
+jasmine rice exist in 21.0 restaurants, accumulate stars: 78.5
+mozzarella exist in 4.0 restaurants, accumulate stars: 14.5
+chicken soup exist in 51.0 restaurants, accumulate stars: 179.0
+downtown phoenix exist in 16.0 restaurants, accumulate stars: 58.5
+shish kabob exist in 1.0 restaurants, accumulate stars: 3.0
+chow mein exist in 393.0 restaurants, accumulate stars: 1332.5
+bra exist in 1.0 restaurants, accumulate stars: 4.0
+brown rice exist in 201.0 restaurants, accumulate stars: 706.0
+spinach salad exist in 3.0 restaurants, accumulate stars: 11.0
+lazy sunday exist in 8.0 restaurants, accumulate stars: 28.5
+pf chang exist in 48.0 restaurants, accumulate stars: 163.0
+flip flops exist in 3.0 restaurants, accumulate stars: 11.5
+rice cake exist in 30.0 restaurants, accumulate stars: 105.0
+chop suey exist in 70.0 restaurants, accumulate stars: 246.5
+mu shu pork exist in 41.0 restaurants, accumulate stars: 146.5
+honey exist in 301.0 restaurants, accumulate stars: 1032.5
+buffalo wings exist in 6.0 restaurants, accumulate stars: 21.0
+green beans exist in 155.0 restaurants, accumulate stars: 528.5
+butter chicken exist in 3.0 restaurants, accumulate stars: 9.5
+gluten free exist in 53.0 restaurants, accumulate stars: 184.5
+crispy kau exist in 2.0 restaurants, accumulate stars: 7.0
+pizza exist in 154.0 restaurants, accumulate stars: 506.0
+wedding cake exist in 1.0 restaurants, accumulate stars: 3.5
+noodle soup exist in 174.0 restaurants, accumulate stars: 610.5
+braised abalone exist in 3.0 restaurants, accumulate stars: 11.0
+salsa exist in 21.0 restaurants, accumulate stars: 76.0
+beef tenderloin exist in 18.0 restaurants, accumulate stars: 62.0
+shrimp soup exist in 13.0 restaurants, accumulate stars: 44.0
+fresh air exist in 14.0 restaurants, accumulate stars: 51.0
+sun prairie exist in 7.0 restaurants, accumulate stars: 24.0
+shark fin exist in 27.0 restaurants, accumulate stars: 92.0
+mexican cuisine exist in 4.0 restaurants, accumulate stars: 15.0
+lake mead exist in 9.0 restaurants, accumulate stars: 31.0
+thyme exist in 1.0 restaurants, accumulate stars: 3.0
+potatoes exist in 67.0 restaurants, accumulate stars: 232.5
+panino exist in 1.0 restaurants, accumulate stars: 2.5
+xiaolongbao exist in 6.0 restaurants, accumulate stars: 19.5
+milk chocolate exist in 4.0 restaurants, accumulate stars: 16.5
+rosemary exist in 1.0 restaurants, accumulate stars: 3.0
+lentil soup exist in 1.0 restaurants, accumulate stars: 4.0
+die hard exist in 8.0 restaurants, accumulate stars: 29.5
+chinese buffet exist in 125.0 restaurants, accumulate stars: 375.0
+mashed potatoes exist in 13.0 restaurants, accumulate stars: 41.5
+tomatoes and onions exist in 2.0 restaurants, accumulate stars: 7.5
+tourist trap exist in 14.0 restaurants, accumulate stars: 47.5
+tater tots exist in 1.0 restaurants, accumulate stars: 3.5
+food allergies exist in 18.0 restaurants, accumulate stars: 63.5
+egg yolk exist in 5.0 restaurants, accumulate stars: 16.0
+long island exist in 15.0 restaurants, accumulate stars: 53.5
+ground beef exist in 8.0 restaurants, accumulate stars: 28.0
+jade chicken exist in 2.0 restaurants, accumulate stars: 7.5
+green onions exist in 135.0 restaurants, accumulate stars: 476.0
+spinach exist in 89.0 restaurants, accumulate stars: 308.0
+provolone exist in 1.0 restaurants, accumulate stars: 4.0
+inferno exist in 5.0 restaurants, accumulate stars: 18.5
+tuna tartare exist in 6.0 restaurants, accumulate stars: 20.5
+guy fieri exist in 2.0 restaurants, accumulate stars: 7.5
+french fries exist in 35.0 restaurants, accumulate stars: 111.0
+canadian bacon exist in 2.0 restaurants, accumulate stars: 7.0
+fast food exist in 365.0 restaurants, accumulate stars: 1209.5
+lemon juice exist in 5.0 restaurants, accumulate stars: 18.5
+mint exist in 43.0 restaurants, accumulate stars: 155.0
+buddha_s delight exist in 5.0 restaurants, accumulate stars: 19.0
+pork chop rice exist in 13.0 restaurants, accumulate stars: 48.0
+poached egg exist in 3.0 restaurants, accumulate stars: 11.0
+cong you bing exist in 5.0 restaurants, accumulate stars: 17.0
+grilled tomato exist in 1.0 restaurants, accumulate stars: 4.0
+flank steak exist in 9.0 restaurants, accumulate stars: 32.0
+italian sausage exist in 3.0 restaurants, accumulate stars: 11.5
+fortune cookie exist in 116.0 restaurants, accumulate stars: 388.5
+sweet and sour sauce exist in 169.0 restaurants, accumulate stars: 590.5
+hot and sour soup exist in 366.0 restaurants, accumulate stars: 1257.0
+sierra nevada exist in 1.0 restaurants, accumulate stars: 3.0
+sage exist in 5.0 restaurants, accumulate stars: 16.0
+circus circus exist in 6.0 restaurants, accumulate stars: 17.0
+fennel exist in 3.0 restaurants, accumulate stars: 13.5
+bread onion exist in 1.0 restaurants, accumulate stars: 3.5
+comfort food exist in 94.0 restaurants, accumulate stars: 325.0
+salad bar exist in 42.0 restaurants, accumulate stars: 132.0
+kabob exist in 3.0 restaurants, accumulate stars: 10.5
+wolfgang puck exist in 2.0 restaurants, accumulate stars: 6.0
+las vegas strip exist in 24.0 restaurants, accumulate stars: 80.0
+home run exist in 22.0 restaurants, accumulate stars: 81.5
+rice exist in 873.0 restaurants, accumulate stars: 2919.5
+chocolate syrup exist in 5.0 restaurants, accumulate stars: 18.0
+spanish rice exist in 5.0 restaurants, accumulate stars: 18.5
+hip hop exist in 6.0 restaurants, accumulate stars: 21.5
+mamma mia exist in 1.0 restaurants, accumulate stars: 3.5
+regular noodles exist in 8.0 restaurants, accumulate stars: 28.0
+spare ribs exist in 117.0 restaurants, accumulate stars: 398.0
+goulash exist in 1.0 restaurants, accumulate stars: 3.0
+lo mein exist in 373.0 restaurants, accumulate stars: 1268.0
+salt and pepper exist in 152.0 restaurants, accumulate stars: 523.5
+san francisco bay exist in 22.0 restaurants, accumulate stars: 78.5
+mole chicken exist in 1.0 restaurants, accumulate stars: 3.0
+pita exist in 7.0 restaurants, accumulate stars: 25.0
+olive oil exist in 1.0 restaurants, accumulate stars: 4.5
+sweet soy exist in 27.0 restaurants, accumulate stars: 98.0
+frozen food exist in 16.0 restaurants, accumulate stars: 51.5
+parsley exist in 9.0 restaurants, accumulate stars: 30.0
+won ton and exist in 20.0 restaurants, accumulate stars: 66.5
+planet hollywood exist in 13.0 restaurants, accumulate stars: 42.0
+basil exist in 84.0 restaurants, accumulate stars: 303.5
+sushi rolls exist in 45.0 restaurants, accumulate stars: 145.0
+orange chicken exist in 538.0 restaurants, accumulate stars: 1803.0
+mushroom exist in 159.0 restaurants, accumulate stars: 548.0
+pulled pork exist in 7.0 restaurants, accumulate stars: 26.5
+chile exist in 65.0 restaurants, accumulate stars: 234.5
+lotus root exist in 11.0 restaurants, accumulate stars: 40.5
+taco has exist in 1.0 restaurants, accumulate stars: 3.0
+rice and peas exist in 1.0 restaurants, accumulate stars: 3.0
+cheesecake factory exist in 16.0 restaurants, accumulate stars: 55.5
+and pickles exist in 1.0 restaurants, accumulate stars: 3.5
+onion rings exist in 20.0 restaurants, accumulate stars: 67.5
+hot sauce exist in 101.0 restaurants, accumulate stars: 342.5
+dumplings exist in 316.0 restaurants, accumulate stars: 1102.5
+pita bread exist in 2.0 restaurants, accumulate stars: 7.5
+beef tongue exist in 7.0 restaurants, accumulate stars: 25.0
+pot roast exist in 7.0 restaurants, accumulate stars: 26.5
+rigatoni exist in 1.0 restaurants, accumulate stars: 3.5
+self service exist in 10.0 restaurants, accumulate stars: 35.0
+pea puree exist in 1.0 restaurants, accumulate stars: 4.0
+the mongolian beef and the exist in 16.0 restaurants, accumulate stars: 56.5
+garlic exist in 415.0 restaurants, accumulate stars: 1451.0
+tuna exist in 75.0 restaurants, accumulate stars: 246.5
+dim sim exist in 5.0 restaurants, accumulate stars: 18.5
+half chicken exist in 10.0 restaurants, accumulate stars: 35.5
+angel wings exist in 1.0 restaurants, accumulate stars: 4.0
+hong kong exist in 212.0 restaurants, accumulate stars: 737.0
+south india exist in 1.0 restaurants, accumulate stars: 3.5
+apple pie exist in 9.0 restaurants, accumulate stars: 27.0
+roast beef exist in 9.0 restaurants, accumulate stars: 28.0
+grilled vegetables exist in 3.0 restaurants, accumulate stars: 11.0
+enchilada exist in 4.0 restaurants, accumulate stars: 13.5
+refried beans exist in 5.0 restaurants, accumulate stars: 18.0
+monday night exist in 45.0 restaurants, accumulate stars: 154.0
+shangri la exist in 7.0 restaurants, accumulate stars: 27.5
+prix fixe exist in 15.0 restaurants, accumulate stars: 50.5
+soup tomato exist in 1.0 restaurants, accumulate stars: 4.0
+baked potato exist in 3.0 restaurants, accumulate stars: 9.5
+rice noodle exist in 82.0 restaurants, accumulate stars: 283.0
+youtiao exist in 4.0 restaurants, accumulate stars: 13.0
+cream dessert exist in 3.0 restaurants, accumulate stars: 10.0
+root beer exist in 4.0 restaurants, accumulate stars: 15.5
+buffet exist in 298.0 restaurants, accumulate stars: 948.0
+pale ale exist in 1.0 restaurants, accumulate stars: 3.5
+rice pudding exist in 6.0 restaurants, accumulate stars: 22.0
+corn starch exist in 37.0 restaurants, accumulate stars: 128.5
+red bean soup exist in 7.0 restaurants, accumulate stars: 26.0
+black bean exist in 166.0 restaurants, accumulate stars: 585.5
+octopus exist in 29.0 restaurants, accumulate stars: 100.5
+shopping mall exist in 10.0 restaurants, accumulate stars: 37.0
+shrimp paste exist in 19.0 restaurants, accumulate stars: 66.0
+blue cheese exist in 5.0 restaurants, accumulate stars: 16.5
+security guard exist in 6.0 restaurants, accumulate stars: 20.0
+home fries exist in 1.0 restaurants, accumulate stars: 4.0
+dive bar exist in 10.0 restaurants, accumulate stars: 36.5
+chinese cuisine exist in 167.0 restaurants, accumulate stars: 588.5
+sea bass exist in 62.0 restaurants, accumulate stars: 213.0
+smoked ham exist in 2.0 restaurants, accumulate stars: 7.0
+mu shu exist in 79.0 restaurants, accumulate stars: 283.0
+sun city exist in 8.0 restaurants, accumulate stars: 25.5
+lamian exist in 1.0 restaurants, accumulate stars: 3.5
+steamed rice exist in 189.0 restaurants, accumulate stars: 643.5
+art deco exist in 2.0 restaurants, accumulate stars: 7.5
+chicken pasta exist in 1.0 restaurants, accumulate stars: 3.0
+jerk fried rice and black exist in 2.0 restaurants, accumulate stars: 7.5
+mexican flag exist in 1.0 restaurants, accumulate stars: 3.0
+general chicken exist in 46.0 restaurants, accumulate stars: 158.0
+peking duck exist in 84.0 restaurants, accumulate stars: 300.5
+cornish hen exist in 2.0 restaurants, accumulate stars: 6.5
+rice meat exist in 2.0 restaurants, accumulate stars: 7.0
+lard exist in 16.0 restaurants, accumulate stars: 57.5
+bubble tea exist in 17.0 restaurants, accumulate stars: 58.5
+mad men exist in 3.0 restaurants, accumulate stars: 11.0
+saving grace exist in 43.0 restaurants, accumulate stars: 141.5
+pork exist in 670.0 restaurants, accumulate stars: 2279.5
+dried exist in 191.0 restaurants, accumulate stars: 647.0
+business casual exist in 1.0 restaurants, accumulate stars: 3.5
+gnocchi exist in 1.0 restaurants, accumulate stars: 4.0
+fried fish exist in 55.0 restaurants, accumulate stars: 182.5
+bay leaves exist in 1.0 restaurants, accumulate stars: 3.5
+spring training exist in 7.0 restaurants, accumulate stars: 26.0
+chicken fried exist in 261.0 restaurants, accumulate stars: 901.5
+dimsum exist in 39.0 restaurants, accumulate stars: 128.5
+fish tank exist in 37.0 restaurants, accumulate stars: 128.0
+mussels exist in 47.0 restaurants, accumulate stars: 156.0
+baby food exist in 2.0 restaurants, accumulate stars: 7.5
+strudel exist in 3.0 restaurants, accumulate stars: 9.0
+french toast exist in 6.0 restaurants, accumulate stars: 20.0
+corned beef exist in 3.0 restaurants, accumulate stars: 10.5
+sea salt exist in 9.0 restaurants, accumulate stars: 33.0
+ice cream sandwich exist in 2.0 restaurants, accumulate stars: 7.5
+kebab exist in 2.0 restaurants, accumulate stars: 8.0
+grand canal exist in 1.0 restaurants, accumulate stars: 2.5
+pita jungle exist in 1.0 restaurants, accumulate stars: 3.5
+yui shan exist in 10.0 restaurants, accumulate stars: 35.5
+california roll exist in 28.0 restaurants, accumulate stars: 91.5
+food critic exist in 11.0 restaurants, accumulate stars: 41.5
+butternut squash exist in 2.0 restaurants, accumulate stars: 8.5
+olive exist in 27.0 restaurants, accumulate stars: 84.0
+air conditioning exist in 23.0 restaurants, accumulate stars: 83.0
+their garlic sauce exist in 1.0 restaurants, accumulate stars: 3.0
+tin foil exist in 3.0 restaurants, accumulate stars: 12.0
+meatball exist in 26.0 restaurants, accumulate stars: 91.0
+steak medium exist in 1.0 restaurants, accumulate stars: 3.0
+bridal shower exist in 2.0 restaurants, accumulate stars: 6.5
+great taste exist in 46.0 restaurants, accumulate stars: 170.5
+beans exist in 236.0 restaurants, accumulate stars: 809.5
+twice cooked pork exist in 35.0 restaurants, accumulate stars: 127.5
+chicken rice exist in 60.0 restaurants, accumulate stars: 207.0
+credit cards exist in 43.0 restaurants, accumulate stars: 153.0
+heart attack exist in 6.0 restaurants, accumulate stars: 21.0
+god forbid exist in 3.0 restaurants, accumulate stars: 9.5
+graham cracker exist in 1.0 restaurants, accumulate stars: 4.0
+nuts exist in 68.0 restaurants, accumulate stars: 237.0
+identity crisis exist in 12.0 restaurants, accumulate stars: 41.0
+iced tea exist in 152.0 restaurants, accumulate stars: 534.0
+prosecco exist in 1.0 restaurants, accumulate stars: 4.0
+key lime pie exist in 4.0 restaurants, accumulate stars: 15.0
+rosetta exist in 2.0 restaurants, accumulate stars: 6.0
+kabobs exist in 8.0 restaurants, accumulate stars: 28.5
+won ton exist in 260.0 restaurants, accumulate stars: 893.0
+absolutely fabulous exist in 3.0 restaurants, accumulate stars: 12.0
+tortilla chips exist in 2.0 restaurants, accumulate stars: 7.0
+casa grande exist in 10.0 restaurants, accumulate stars: 34.5
+gold coast exist in 15.0 restaurants, accumulate stars: 45.5
+goose exist in 17.0 restaurants, accumulate stars: 61.5
+ice cream exist in 156.0 restaurants, accumulate stars: 513.0
+deep fried fish exist in 5.0 restaurants, accumulate stars: 18.5
+linguine exist in 6.0 restaurants, accumulate stars: 23.5
+carrot cake exist in 11.0 restaurants, accumulate stars: 39.5
+vanilla ice exist in 12.0 restaurants, accumulate stars: 42.5
+chef boyardee exist in 1.0 restaurants, accumulate stars: 4.0
+guilty pleasure exist in 24.0 restaurants, accumulate stars: 78.5
+dried shrimp exist in 17.0 restaurants, accumulate stars: 61.5
+free range exist in 3.0 restaurants, accumulate stars: 11.0
+movie theater exist in 6.0 restaurants, accumulate stars: 20.0
+stir fry exist in 144.0 restaurants, accumulate stars: 503.5
+pepperoni exist in 4.0 restaurants, accumulate stars: 15.0
+cash register exist in 39.0 restaurants, accumulate stars: 133.5
+cheese exist in 279.0 restaurants, accumulate stars: 935.0
+wonton strips exist in 18.0 restaurants, accumulate stars: 64.0
+southern california exist in 37.0 restaurants, accumulate stars: 131.0
+hard rock exist in 9.0 restaurants, accumulate stars: 33.0
+street food exist in 23.0 restaurants, accumulate stars: 84.0
+the fried rice and the exist in 18.0 restaurants, accumulate stars: 59.0
+salad lettuce exist in 1.0 restaurants, accumulate stars: 2.5
+green bean exist in 38.0 restaurants, accumulate stars: 135.5
+pinot noir exist in 3.0 restaurants, accumulate stars: 9.5
+language barrier exist in 72.0 restaurants, accumulate stars: 243.5
+vermicelli exist in 50.0 restaurants, accumulate stars: 176.0
+frou frou exist in 2.0 restaurants, accumulate stars: 8.0
+slow food exist in 6.0 restaurants, accumulate stars: 19.0
+freshly squeezed exist in 6.0 restaurants, accumulate stars: 21.0
+apples exist in 15.0 restaurants, accumulate stars: 52.0
+fruits exist in 50.0 restaurants, accumulate stars: 162.5
+mexican street tacos exist in 1.0 restaurants, accumulate stars: 3.0
+red pepper exist in 38.0 restaurants, accumulate stars: 131.0
+red chili exist in 46.0 restaurants, accumulate stars: 165.0
+spring roll exist in 148.0 restaurants, accumulate stars: 525.5
+miso soup exist in 49.0 restaurants, accumulate stars: 166.0
+honey walnut exist in 123.0 restaurants, accumulate stars: 422.0
+bok choy exist in 128.0 restaurants, accumulate stars: 439.5
+chinese chicken salad exist in 15.0 restaurants, accumulate stars: 52.0
+baozi exist in 3.0 restaurants, accumulate stars: 11.5
+ritz carlton exist in 1.0 restaurants, accumulate stars: 3.0
+el pollo loco exist in 2.0 restaurants, accumulate stars: 6.0
+seafood exist in 344.0 restaurants, accumulate stars: 1182.5
+salt exist in 319.0 restaurants, accumulate stars: 1087.0
+small salad exist in 12.0 restaurants, accumulate stars: 43.5
+sesame oil exist in 38.0 restaurants, accumulate stars: 140.5
+calamari exist in 122.0 restaurants, accumulate stars: 419.5
+egg roll exist in 368.0 restaurants, accumulate stars: 1274.5
+key lime exist in 8.0 restaurants, accumulate stars: 29.0
+goat cheese exist in 3.0 restaurants, accumulate stars: 10.0
+peter piper exist in 2.0 restaurants, accumulate stars: 6.5
+lazy susan exist in 26.0 restaurants, accumulate stars: 94.0
+bean curd exist in 90.0 restaurants, accumulate stars: 316.5
+hainanese chicken rice exist in 7.0 restaurants, accumulate stars: 26.5
+spicy salsa exist in 1.0 restaurants, accumulate stars: 3.0
+chinese food exist in 782.0 restaurants, accumulate stars: 2644.5
+cantonese cuisine exist in 20.0 restaurants, accumulate stars: 71.5
+beef carpaccio exist in 3.0 restaurants, accumulate stars: 11.0
+queen creek exist in 10.0 restaurants, accumulate stars: 36.0
+brown sauce exist in 145.0 restaurants, accumulate stars: 512.5
+japanese food exist in 39.0 restaurants, accumulate stars: 137.0
+mixed vegetable exist in 11.0 restaurants, accumulate stars: 36.5
+deer valley exist in 6.0 restaurants, accumulate stars: 21.0
+amuse bouche exist in 3.0 restaurants, accumulate stars: 11.0
+crispy kau chee exist in 1.0 restaurants, accumulate stars: 3.5
+credit card exist in 118.0 restaurants, accumulate stars: 395.5
+red velvet cake exist in 4.0 restaurants, accumulate stars: 13.5
+clam chowder exist in 6.0 restaurants, accumulate stars: 16.5
+wine tasting exist in 1.0 restaurants, accumulate stars: 3.5
+olives exist in 8.0 restaurants, accumulate stars: 25.5
+scrambled eggs exist in 18.0 restaurants, accumulate stars: 61.5
+fried egg exist in 43.0 restaurants, accumulate stars: 150.0
+pork and veggies exist in 12.0 restaurants, accumulate stars: 43.5
+ravioli exist in 6.0 restaurants, accumulate stars: 23.0
+hoisin sauce exist in 55.0 restaurants, accumulate stars: 193.0
+stir fried exist in 158.0 restaurants, accumulate stars: 558.5
+wild rice exist in 1.0 restaurants, accumulate stars: 3.5
+chicken fried steak exist in 2.0 restaurants, accumulate stars: 6.0
+basmati rice exist in 1.0 restaurants, accumulate stars: 4.5
+hockey puck exist in 5.0 restaurants, accumulate stars: 16.5
+ribeye exist in 12.0 restaurants, accumulate stars: 45.0
+lobster tail exist in 9.0 restaurants, accumulate stars: 31.0
+oyster sauce exist in 72.0 restaurants, accumulate stars: 250.5
+style dim exist in 7.0 restaurants, accumulate stars: 23.5
+jiaozi exist in 2.0 restaurants, accumulate stars: 6.0
+mexican food exist in 30.0 restaurants, accumulate stars: 100.5
+house music exist in 4.0 restaurants, accumulate stars: 14.5
+chorizo exist in 4.0 restaurants, accumulate stars: 13.5
+duck soup exist in 20.0 restaurants, accumulate stars: 66.0
+napa cabbage exist in 36.0 restaurants, accumulate stars: 130.5
+burrito exist in 18.0 restaurants, accumulate stars: 63.5
+high roller exist in 4.0 restaurants, accumulate stars: 15.0
+veal exist in 3.0 restaurants, accumulate stars: 11.5
+the orange chicken exist in 371.0 restaurants, accumulate stars: 1260.0
+cirque du soleil exist in 4.0 restaurants, accumulate stars: 13.5
+thai curry exist in 26.0 restaurants, accumulate stars: 93.0
+lo mien exist in 63.0 restaurants, accumulate stars: 210.0
+cottage cheese exist in 4.0 restaurants, accumulate stars: 13.0
+mantou exist in 2.0 restaurants, accumulate stars: 7.5
+customer experience exist in 5.0 restaurants, accumulate stars: 17.0
+stuffed food exist in 1.0 restaurants, accumulate stars: 4.0
+asian american exist in 21.0 restaurants, accumulate stars: 75.5
+whipped cream exist in 10.0 restaurants, accumulate stars: 35.5
+creme brulee exist in 14.0 restaurants, accumulate stars: 47.0
+bow tie exist in 4.0 restaurants, accumulate stars: 13.5
+gordon ramsay exist in 6.0 restaurants, accumulate stars: 18.5
+naan exist in 5.0 restaurants, accumulate stars: 19.0
+lobster exist in 185.0 restaurants, accumulate stars: 637.0
+pork blood exist in 8.0 restaurants, accumulate stars: 29.5
+pickles exist in 14.0 restaurants, accumulate stars: 51.5
+lentils exist in 1.0 restaurants, accumulate stars: 4.0
+fondue exist in 7.0 restaurants, accumulate stars: 23.0
+rice chicken exist in 48.0 restaurants, accumulate stars: 171.5
+middle eastern exist in 1.0 restaurants, accumulate stars: 3.0
+chinese sausage exist in 30.0 restaurants, accumulate stars: 108.5
+white mushrooms exist in 2.0 restaurants, accumulate stars: 8.0
+balsamic vinegar exist in 2.0 restaurants, accumulate stars: 7.0
+english muffin exist in 2.0 restaurants, accumulate stars: 6.0
+americanized chinese food exist in 142.0 restaurants, accumulate stars: 493.0
+chen wok exist in 9.0 restaurants, accumulate stars: 33.5
+shrimp exist in 710.0 restaurants, accumulate stars: 2399.5
+yogurt dip exist in 1.0 restaurants, accumulate stars: 3.5
+red onion exist in 6.0 restaurants, accumulate stars: 22.5
+united states exist in 12.0 restaurants, accumulate stars: 40.5
+monterey park exist in 26.0 restaurants, accumulate stars: 89.0
+winter melon exist in 17.0 restaurants, accumulate stars: 62.0
+stir frying exist in 2.0 restaurants, accumulate stars: 7.0
+white trash exist in 2.0 restaurants, accumulate stars: 7.0
+carne asada exist in 5.0 restaurants, accumulate stars: 18.0
+home depot exist in 6.0 restaurants, accumulate stars: 22.0
+vindaloo exist in 2.0 restaurants, accumulate stars: 7.0
+king crab exist in 11.0 restaurants, accumulate stars: 37.0
+the stir fry exist in 38.0 restaurants, accumulate stars: 134.5
+south asian exist in 3.0 restaurants, accumulate stars: 12.0
+jasmine tea exist in 46.0 restaurants, accumulate stars: 161.0
+tripe exist in 48.0 restaurants, accumulate stars: 162.0
+apache junction exist in 3.0 restaurants, accumulate stars: 11.5
+anchovies exist in 6.0 restaurants, accumulate stars: 22.0
+cheese pie exist in 1.0 restaurants, accumulate stars: 3.0
+sea scallops exist in 3.0 restaurants, accumulate stars: 10.0
+white cut chicken exist in 1.0 restaurants, accumulate stars: 2.0
+peas exist in 202.0 restaurants, accumulate stars: 703.0
+wonton noodle exist in 45.0 restaurants, accumulate stars: 148.5
+march madness exist in 1.0 restaurants, accumulate stars: 3.5
+red bull exist in 2.0 restaurants, accumulate stars: 7.5
+sardine exist in 3.0 restaurants, accumulate stars: 8.5
+hard boiled egg exist in 8.0 restaurants, accumulate stars: 27.0
+parmesan exist in 8.0 restaurants, accumulate stars: 27.0
+mascarpone exist in 1.0 restaurants, accumulate stars: 4.0
+eggs benedict exist in 4.0 restaurants, accumulate stars: 14.5
+bell peppers exist in 82.0 restaurants, accumulate stars: 293.0
+sesame chicken exist in 286.0 restaurants, accumulate stars: 989.0
+congee exist in 52.0 restaurants, accumulate stars: 178.5
+white bread exist in 6.0 restaurants, accumulate stars: 21.5
+ginger ale exist in 5.0 restaurants, accumulate stars: 18.0
+oolong tea exist in 18.0 restaurants, accumulate stars: 67.0
+mai tai exist in 10.0 restaurants, accumulate stars: 36.0
+hot plate exist in 11.0 restaurants, accumulate stars: 37.5
+carne asada tacos exist in 1.0 restaurants, accumulate stars: 3.0
+kobe beef exist in 12.0 restaurants, accumulate stars: 41.0
+sweet and sour pork exist in 169.0 restaurants, accumulate stars: 585.0
+red rice exist in 4.0 restaurants, accumulate stars: 15.5
+cashew chicken exist in 150.0 restaurants, accumulate stars: 520.0
+big star exist in 1.0 restaurants, accumulate stars: 2.0
+new york style chinese exist in 24.0 restaurants, accumulate stars: 83.5
+century egg exist in 10.0 restaurants, accumulate stars: 34.5
+tomatoes onions exist in 4.0 restaurants, accumulate stars: 15.0
+pepper steak exist in 76.0 restaurants, accumulate stars: 266.0
+paradise valley exist in 2.0 restaurants, accumulate stars: 7.5
+lasagne exist in 1.0 restaurants, accumulate stars: 3.5
+lasagna exist in 6.0 restaurants, accumulate stars: 21.0
+garlic dip exist in 1.0 restaurants, accumulate stars: 4.0
+guacamole exist in 8.0 restaurants, accumulate stars: 27.0
+shaobing exist in 2.0 restaurants, accumulate stars: 5.5
+american cheese exist in 1.0 restaurants, accumulate stars: 3.5
+pears exist in 5.0 restaurants, accumulate stars: 19.5
+khar exist in 1.0 restaurants, accumulate stars: 4.5
+couscous exist in 1.0 restaurants, accumulate stars: 3.0
+coconut chicken exist in 18.0 restaurants, accumulate stars: 61.0
+chicken garlic exist in 19.0 restaurants, accumulate stars: 70.5
+van buren exist in 2.0 restaurants, accumulate stars: 6.0
+flautas exist in 2.0 restaurants, accumulate stars: 6.5
+bloody mary exist in 8.0 restaurants, accumulate stars: 25.5
+panda express exist in 451.0 restaurants, accumulate stars: 1481.5
+cast iron exist in 9.0 restaurants, accumulate stars: 30.0
+beef broccoli exist in 120.0 restaurants, accumulate stars: 407.5
+sandwich exist in 55.0 restaurants, accumulate stars: 189.0
+red peppers exist in 31.0 restaurants, accumulate stars: 110.5
+flat bread exist in 10.0 restaurants, accumulate stars: 34.0
+sin city exist in 20.0 restaurants, accumulate stars: 69.5
+bachelor party exist in 7.0 restaurants, accumulate stars: 23.0
+santa monica exist in 2.0 restaurants, accumulate stars: 6.0
+dipping sauce exist in 157.0 restaurants, accumulate stars: 564.0
+soy milk exist in 18.0 restaurants, accumulate stars: 62.0
+food chain exist in 14.0 restaurants, accumulate stars: 45.5
+bitter melon exist in 23.0 restaurants, accumulate stars: 84.5
+macaroni exist in 11.0 restaurants, accumulate stars: 37.5
+pesto exist in 4.0 restaurants, accumulate stars: 14.5
+lobster bisque exist in 1.0 restaurants, accumulate stars: 3.5
+chicken skewer exist in 5.0 restaurants, accumulate stars: 19.0
+with black bean sauce exist in 71.0 restaurants, accumulate stars: 249.0
+desert inn exist in 5.0 restaurants, accumulate stars: 20.0
+bone marrow exist in 4.0 restaurants, accumulate stars: 15.0
+san gabriel exist in 31.0 restaurants, accumulate stars: 108.0
+olive tapenade exist in 2.0 restaurants, accumulate stars: 6.0
+super bowl exist in 4.0 restaurants, accumulate stars: 13.0
+dress code exist in 3.0 restaurants, accumulate stars: 10.0
+condensed milk exist in 25.0 restaurants, accumulate stars: 94.5
+double check exist in 25.0 restaurants, accumulate stars: 86.5
+tiramisu exist in 11.0 restaurants, accumulate stars: 37.0
+fried rice exist in 747.0 restaurants, accumulate stars: 2511.5
+chinese noodles exist in 18.0 restaurants, accumulate stars: 60.5
+the beef rice exist in 7.0 restaurants, accumulate stars: 24.5
+rush hour exist in 15.0 restaurants, accumulate stars: 52.5
+south indian exist in 1.0 restaurants, accumulate stars: 4.0
+calzone exist in 1.0 restaurants, accumulate stars: 2.0
+cookie exist in 150.0 restaurants, accumulate stars: 500.5
+dumplings the exist in 60.0 restaurants, accumulate stars: 209.0
+pine nuts exist in 6.0 restaurants, accumulate stars: 18.5
+vanilla ice cream exist in 11.0 restaurants, accumulate stars: 40.0
+bowl of salsa exist in 1.0 restaurants, accumulate stars: 3.0
+soy egg exist in 1.0 restaurants, accumulate stars: 3.5
+golden nugget exist in 4.0 restaurants, accumulate stars: 14.0
+greek food exist in 1.0 restaurants, accumulate stars: 3.5
+san gabriel valley exist in 22.0 restaurants, accumulate stars: 74.0
+bolognese sauce exist in 1.0 restaurants, accumulate stars: 4.0
+assembly line exist in 4.0 restaurants, accumulate stars: 12.5
+frida kahlo exist in 2.0 restaurants, accumulate stars: 7.0
+garlic sauce exist in 181.0 restaurants, accumulate stars: 631.5
+valet parking exist in 3.0 restaurants, accumulate stars: 11.5
+fried dough exist in 23.0 restaurants, accumulate stars: 76.5
+filet mignon exist in 19.0 restaurants, accumulate stars: 68.5
+cake chocolate exist in 2.0 restaurants, accumulate stars: 7.0
+boba milk exist in 12.0 restaurants, accumulate stars: 41.0
+junk food exist in 4.0 restaurants, accumulate stars: 12.5
+bottled water exist in 14.0 restaurants, accumulate stars: 46.5
+zucchini exist in 56.0 restaurants, accumulate stars: 193.5
+hot dogs exist in 10.0 restaurants, accumulate stars: 30.5
+thai chinese exist in 30.0 restaurants, accumulate stars: 105.0
+salmon exist in 88.0 restaurants, accumulate stars: 286.5
+coca cola exist in 13.0 restaurants, accumulate stars: 42.5
+deep fried exist in 266.0 restaurants, accumulate stars: 914.5
+bell pepper exist in 56.0 restaurants, accumulate stars: 191.0
+green tea exist in 117.0 restaurants, accumulate stars: 401.0
+carne exist in 7.0 restaurants, accumulate stars: 24.5
+finger food exist in 3.0 restaurants, accumulate stars: 10.0
+red wine exist in 13.0 restaurants, accumulate stars: 45.5
+chocolate chip exist in 12.0 restaurants, accumulate stars: 40.0
+chocolate mousse exist in 17.0 restaurants, accumulate stars: 56.5
+molecular gastronomy exist in 1.0 restaurants, accumulate stars: 3.0
+sour cream exist in 9.0 restaurants, accumulate stars: 31.0
+food court exist in 68.0 restaurants, accumulate stars: 208.0
+corn tortilla exist in 3.0 restaurants, accumulate stars: 11.5
+service oriented exist in 6.0 restaurants, accumulate stars: 20.0
+guotie exist in 1.0 restaurants, accumulate stars: 4.5
+sweet potato exist in 23.0 restaurants, accumulate stars: 82.0
+main course exist in 99.0 restaurants, accumulate stars: 354.5
+cool spot exist in 2.0 restaurants, accumulate stars: 7.5
+caprese exist in 1.0 restaurants, accumulate stars: 2.0
+soft drink exist in 21.0 restaurants, accumulate stars: 72.5
+waiting staff exist in 9.0 restaurants, accumulate stars: 28.0
+lactose intolerant exist in 3.0 restaurants, accumulate stars: 12.0
+bachelorette party exist in 10.0 restaurants, accumulate stars: 35.0
+hash browns exist in 9.0 restaurants, accumulate stars: 31.0
+mint tea exist in 1.0 restaurants, accumulate stars: 4.0
+duck confit exist in 3.0 restaurants, accumulate stars: 11.5
+frutti exist in 1.0 restaurants, accumulate stars: 3.5
+great white exist in 2.0 restaurants, accumulate stars: 7.0
+indian cuisine exist in 3.0 restaurants, accumulate stars: 11.5
+burger fries exist in 4.0 restaurants, accumulate stars: 12.0
+cream cheese exist in 213.0 restaurants, accumulate stars: 720.5
+ossobuco exist in 1.0 restaurants, accumulate stars: 3.5
+bruschetta exist in 1.0 restaurants, accumulate stars: 3.5
+sea urchin exist in 1.0 restaurants, accumulate stars: 3.0
+fine print exist in 5.0 restaurants, accumulate stars: 18.0
+monte carlo exist in 10.0 restaurants, accumulate stars: 28.5
+creme brule exist in 2.0 restaurants, accumulate stars: 7.0
+family owned business exist in 12.0 restaurants, accumulate stars: 39.5
+chips and salsa exist in 11.0 restaurants, accumulate stars: 39.5
+soft drinks exist in 35.0 restaurants, accumulate stars: 113.5
+brown butter exist in 1.0 restaurants, accumulate stars: 4.0
+shiro exist in 2.0 restaurants, accumulate stars: 7.0
+mexico city exist in 1.0 restaurants, accumulate stars: 4.5
+clay pots exist in 11.0 restaurants, accumulate stars: 40.5
+cucumber exist in 129.0 restaurants, accumulate stars: 451.5
+grilled lamb exist in 3.0 restaurants, accumulate stars: 11.5
+strip mall exist in 222.0 restaurants, accumulate stars: 780.0
+strawberry shortcake exist in 1.0 restaurants, accumulate stars: 3.5
+rice paper exist in 23.0 restaurants, accumulate stars: 81.5
+meat exist in 620.0 restaurants, accumulate stars: 2086.0
+designated driver exist in 1.0 restaurants, accumulate stars: 2.5
+deep fried shrimp exist in 21.0 restaurants, accumulate stars: 70.5
+filet exist in 69.0 restaurants, accumulate stars: 240.0
+mole sauce exist in 2.0 restaurants, accumulate stars: 7.0
+sweet corn exist in 9.0 restaurants, accumulate stars: 30.0
+pork loin exist in 5.0 restaurants, accumulate stars: 16.5
+fish ball exist in 17.0 restaurants, accumulate stars: 63.0
+fried chicken exist in 218.0 restaurants, accumulate stars: 725.0
+general tso_s chicken exist in 179.0 restaurants, accumulate stars: 610.0
+fine dining restaurant exist in 9.0 restaurants, accumulate stars: 35.5
+lamb rice exist in 1.0 restaurants, accumulate stars: 3.5
+soda fountain exist in 23.0 restaurants, accumulate stars: 79.0
+fast food chain exist in 7.0 restaurants, accumulate stars: 23.5
+beef chow fun exist in 106.0 restaurants, accumulate stars: 374.0
+halo halo exist in 2.0 restaurants, accumulate stars: 8.5
+skirt steak exist in 3.0 restaurants, accumulate stars: 10.0
+banana leaf exist in 11.0 restaurants, accumulate stars: 37.5
+caesar salad exist in 4.0 restaurants, accumulate stars: 12.5
+olive garden exist in 14.0 restaurants, accumulate stars: 45.0
+date night exist in 55.0 restaurants, accumulate stars: 196.5
+san francisco exist in 136.0 restaurants, accumulate stars: 476.5
+falafel exist in 2.0 restaurants, accumulate stars: 8.5
+golden corral exist in 2.0 restaurants, accumulate stars: 4.5
+lardo exist in 1.0 restaurants, accumulate stars: 4.0
+lamb shank exist in 1.0 restaurants, accumulate stars: 4.0
+grand marnier exist in 2.0 restaurants, accumulate stars: 7.5
+cave creek exist in 6.0 restaurants, accumulate stars: 21.0
+yui shan chicken exist in 3.0 restaurants, accumulate stars: 10.5
+thai cuisine exist in 13.0 restaurants, accumulate stars: 50.0
+mexican american exist in 3.0 restaurants, accumulate stars: 11.0
+wine bottle exist in 2.0 restaurants, accumulate stars: 6.0
+black rice exist in 2.0 restaurants, accumulate stars: 7.5
+taco bell exist in 43.0 restaurants, accumulate stars: 141.5
+pastor exist in 3.0 restaurants, accumulate stars: 11.5
+ginger beef exist in 10.0 restaurants, accumulate stars: 36.5
+hot chocolate exist in 2.0 restaurants, accumulate stars: 7.0
+cheddar cheese exist in 7.0 restaurants, accumulate stars: 23.5
+garden salad exist in 4.0 restaurants, accumulate stars: 14.5
+baba exist in 3.0 restaurants, accumulate stars: 10.5
+kitchen sink exist in 3.0 restaurants, accumulate stars: 11.0
+arnold palmer exist in 4.0 restaurants, accumulate stars: 15.5
+lemon exist in 263.0 restaurants, accumulate stars: 900.5
+tomato sauce exist in 17.0 restaurants, accumulate stars: 60.0
+melted cheese exist in 7.0 restaurants, accumulate stars: 23.0
+cuttlefish exist in 7.0 restaurants, accumulate stars: 27.0
+wonton exist in 397.0 restaurants, accumulate stars: 1363.5
+sauce garlic exist in 7.0 restaurants, accumulate stars: 25.5
+christmas eve exist in 21.0 restaurants, accumulate stars: 74.5
+soft serve exist in 30.0 restaurants, accumulate stars: 84.5
+soy sauce exist in 329.0 restaurants, accumulate stars: 1119.5
+sesame seeds exist in 53.0 restaurants, accumulate stars: 191.5
+prime rib exist in 18.0 restaurants, accumulate stars: 59.5
+red snapper exist in 9.0 restaurants, accumulate stars: 33.0
+green pepper exist in 37.0 restaurants, accumulate stars: 133.0
+food truck exist in 7.0 restaurants, accumulate stars: 28.5
+wine cooler exist in 1.0 restaurants, accumulate stars: 4.0
+passion fruit exist in 15.0 restaurants, accumulate stars: 54.0
+classic rock exist in 4.0 restaurants, accumulate stars: 14.5
+asian cuisine exist in 141.0 restaurants, accumulate stars: 484.5
+pizza hut exist in 13.0 restaurants, accumulate stars: 43.5
+orange county exist in 24.0 restaurants, accumulate stars: 82.0
+marinara sauce exist in 1.0 restaurants, accumulate stars: 4.0
+standard chinese exist in 101.0 restaurants, accumulate stars: 342.0
+chick peas exist in 1.0 restaurants, accumulate stars: 3.5
+asparagus exist in 61.0 restaurants, accumulate stars: 205.0
+rock candy exist in 1.0 restaurants, accumulate stars: 3.5
+of garlic exist in 59.0 restaurants, accumulate stars: 210.5
+snails exist in 7.0 restaurants, accumulate stars: 23.5
+frog legs exist in 21.0 restaurants, accumulate stars: 67.5
+mac and cheese exist in 3.0 restaurants, accumulate stars: 9.0
+dessert chocolate exist in 3.0 restaurants, accumulate stars: 10.5
+meat tender exist in 5.0 restaurants, accumulate stars: 18.0
+spaghetti exist in 49.0 restaurants, accumulate stars: 166.5
+sauerkraut exist in 1.0 restaurants, accumulate stars: 3.5
+chickpeas exist in 1.0 restaurants, accumulate stars: 3.0
+carbonara exist in 1.0 restaurants, accumulate stars: 3.0
+white sauce exist in 33.0 restaurants, accumulate stars: 118.5
+shaved ice exist in 16.0 restaurants, accumulate stars: 59.5
+potato chip exist in 4.0 restaurants, accumulate stars: 14.0
+chili sauce exist in 133.0 restaurants, accumulate stars: 467.0
+cotton candy exist in 1.0 restaurants, accumulate stars: 4.5
+short rib exist in 16.0 restaurants, accumulate stars: 60.0
+breadsticks exist in 2.0 restaurants, accumulate stars: 6.0
+polenta exist in 1.0 restaurants, accumulate stars: 3.0
+growing pains exist in 3.0 restaurants, accumulate stars: 10.5
+hot pot exist in 88.0 restaurants, accumulate stars: 307.5
+egg white exist in 18.0 restaurants, accumulate stars: 63.5
+cream pie exist in 4.0 restaurants, accumulate stars: 11.5
+pappardelle exist in 1.0 restaurants, accumulate stars: 3.5
+celebrity chef exist in 5.0 restaurants, accumulate stars: 17.0
+fish sauce exist in 47.0 restaurants, accumulate stars: 167.5
+lamb exist in 96.0 restaurants, accumulate stars: 339.0
+rock hard exist in 15.0 restaurants, accumulate stars: 51.0
+biryani exist in 1.0 restaurants, accumulate stars: 3.5
+mongolian beef exist in 410.0 restaurants, accumulate stars: 1420.0
+service stars exist in 33.0 restaurants, accumulate stars: 111.0
+chicken wings exist in 167.0 restaurants, accumulate stars: 558.5
+black pepper exist in 104.0 restaurants, accumulate stars: 363.0
+swap meet exist in 2.0 restaurants, accumulate stars: 6.0
+the gai lan exist in 9.0 restaurants, accumulate stars: 30.0
+corn dog exist in 2.0 restaurants, accumulate stars: 7.5
+rice salad exist in 4.0 restaurants, accumulate stars: 13.5
+mgm grand exist in 6.0 restaurants, accumulate stars: 18.5
+tex mex exist in 2.0 restaurants, accumulate stars: 7.0
+eggplants exist in 13.0 restaurants, accumulate stars: 48.5
+sushi samba exist in 2.0 restaurants, accumulate stars: 7.5
+egg foo young exist in 164.0 restaurants, accumulate stars: 554.5
+great wall exist in 46.0 restaurants, accumulate stars: 154.5
+bobo brazil exist in 1.0 restaurants, accumulate stars: 4.0
+dal exist in 2.0 restaurants, accumulate stars: 8.5
+swordfish exist in 1.0 restaurants, accumulate stars: 3.5
+powdered sugar exist in 8.0 restaurants, accumulate stars: 30.0
+low carb exist in 15.0 restaurants, accumulate stars: 50.0
+risotto exist in 5.0 restaurants, accumulate stars: 17.0
+california pizza kitchen exist in 2.0 restaurants, accumulate stars: 6.0
+humble pie exist in 1.0 restaurants, accumulate stars: 4.0
+guanciale exist in 1.0 restaurants, accumulate stars: 4.0
+diet coke exist in 35.0 restaurants, accumulate stars: 125.0
+white chocolate exist in 8.0 restaurants, accumulate stars: 28.0
+potato salad exist in 3.0 restaurants, accumulate stars: 11.5
+kool aid exist in 4.0 restaurants, accumulate stars: 14.5
+mapo tofu exist in 54.0 restaurants, accumulate stars: 191.5
+salami exist in 2.0 restaurants, accumulate stars: 7.0
+steak exist in 197.0 restaurants, accumulate stars: 677.0
+sticky rice exist in 67.0 restaurants, accumulate stars: 232.5
+potato chips exist in 4.0 restaurants, accumulate stars: 14.5
+chicken exist in 924.0 restaurants, accumulate stars: 3085.0
+margaritas exist in 11.0 restaurants, accumulate stars: 35.5
+french bread exist in 1.0 restaurants, accumulate stars: 3.5
+carnitas tacos exist in 1.0 restaurants, accumulate stars: 3.0
+dungeness crab exist in 11.0 restaurants, accumulate stars: 39.5
+bone in ribeye exist in 1.0 restaurants, accumulate stars: 4.0
+game hen exist in 2.0 restaurants, accumulate stars: 8.0
+sugar cane exist in 13.0 restaurants, accumulate stars: 44.5
+star anise exist in 16.0 restaurants, accumulate stars: 59.5
+pork belly exist in 55.0 restaurants, accumulate stars: 197.0
+food poisoning exist in 105.0 restaurants, accumulate stars: 326.0
+puffed rice exist in 2.0 restaurants, accumulate stars: 7.0
+tsao_s chicken exist in 29.0 restaurants, accumulate stars: 100.0
+caramelized onions exist in 1.0 restaurants, accumulate stars: 3.5
+coconut milk exist in 41.0 restaurants, accumulate stars: 149.0
+sunday brunch exist in 11.0 restaurants, accumulate stars: 37.5
+al pastor exist in 3.0 restaurants, accumulate stars: 11.5
+middle east exist in 1.0 restaurants, accumulate stars: 3.5
+hot dog exist in 20.0 restaurants, accumulate stars: 64.5
+shark fin soup exist in 17.0 restaurants, accumulate stars: 59.5
+los angeles exist in 68.0 restaurants, accumulate stars: 239.0
+fountain hills exist in 9.0 restaurants, accumulate stars: 31.5
+samosa exist in 2.0 restaurants, accumulate stars: 8.0
+smoked salmon exist in 6.0 restaurants, accumulate stars: 21.0
+cherry blossom exist in 1.0 restaurants, accumulate stars: 4.5
+braised pork exist in 26.0 restaurants, accumulate stars: 92.5
+mahi mahi exist in 7.0 restaurants, accumulate stars: 23.0
+bread crumbs exist in 3.0 restaurants, accumulate stars: 12.0
+panna cotta exist in 3.0 restaurants, accumulate stars: 10.5
+the refried beans exist in 4.0 restaurants, accumulate stars: 14.5
+mashed potato exist in 3.0 restaurants, accumulate stars: 10.5
+water feature exist in 3.0 restaurants, accumulate stars: 10.5
+chicken breasts exist in 6.0 restaurants, accumulate stars: 23.0
+pork chop exist in 67.0 restaurants, accumulate stars: 237.0
+green salad exist in 9.0 restaurants, accumulate stars: 34.0
+chili pepper exist in 36.0 restaurants, accumulate stars: 128.0
+salisbury steak exist in 2.0 restaurants, accumulate stars: 6.0
+cauliflower exist in 6.0 restaurants, accumulate stars: 19.5
+lamb chops exist in 13.0 restaurants, accumulate stars: 45.5
+big night exist in 4.0 restaurants, accumulate stars: 13.0
+rice noodles exist in 185.0 restaurants, accumulate stars: 635.5
+peanut butter exist in 37.0 restaurants, accumulate stars: 126.0
+arugula exist in 3.0 restaurants, accumulate stars: 11.5
+sweet pea exist in 1.0 restaurants, accumulate stars: 3.0
+white pepper exist in 19.0 restaurants, accumulate stars: 67.0
+iceberg lettuce exist in 24.0 restaurants, accumulate stars: 85.5
+kung pao chicken exist in 317.0 restaurants, accumulate stars: 1088.5
+white rice exist in 323.0 restaurants, accumulate stars: 1117.5
+wonton soup exist in 300.0 restaurants, accumulate stars: 1035.0
+dandan noodles exist in 11.0 restaurants, accumulate stars: 39.0
+sausages exist in 8.0 restaurants, accumulate stars: 26.0
+steak and chicken exist in 4.0 restaurants, accumulate stars: 15.5
+roti canai exist in 5.0 restaurants, accumulate stars: 19.5
+ricotta exist in 2.0 restaurants, accumulate stars: 5.5
+mixed drink exist in 5.0 restaurants, accumulate stars: 15.5
+veggie burger exist in 1.0 restaurants, accumulate stars: 3.0
+tea egg exist in 3.0 restaurants, accumulate stars: 11.5
+malaysian cuisine exist in 7.0 restaurants, accumulate stars: 26.0
+peanut sauce exist in 59.0 restaurants, accumulate stars: 211.0
+squid exist in 119.0 restaurants, accumulate stars: 424.5
+gobi manchurian exist in 1.0 restaurants, accumulate stars: 3.5
+stained glass exist in 1.0 restaurants, accumulate stars: 3.0
+broccoli exist in 504.0 restaurants, accumulate stars: 1709.5
+del taco exist in 6.0 restaurants, accumulate stars: 20.0
+blood orange exist in 3.0 restaurants, accumulate stars: 10.5
+char siu exist in 53.0 restaurants, accumulate stars: 182.0
+pork chops exist in 67.0 restaurants, accumulate stars: 231.5
+green onion exist in 105.0 restaurants, accumulate stars: 370.0
+rocket exist in 6.0 restaurants, accumulate stars: 18.0
+frank sinatra exist in 1.0 restaurants, accumulate stars: 4.0
+tom yum exist in 43.0 restaurants, accumulate stars: 158.0
+grilled octopus exist in 3.0 restaurants, accumulate stars: 12.5
+ada exist in 1.0 restaurants, accumulate stars: 4.0
+duck sauce exist in 54.0 restaurants, accumulate stars: 190.5
+italian american exist in 1.0 restaurants, accumulate stars: 3.0
+mandalay bay exist in 12.0 restaurants, accumulate stars: 35.0
+romaine lettuce exist in 6.0 restaurants, accumulate stars: 18.0
+more frequently exist in 9.0 restaurants, accumulate stars: 32.5
+onion exist in 235.0 restaurants, accumulate stars: 810.5
+diners drive ins and dives exist in 3.0 restaurants, accumulate stars: 11.5
+roti exist in 13.0 restaurants, accumulate stars: 50.5
+fettuccine exist in 3.0 restaurants, accumulate stars: 10.5
+tomato soup exist in 4.0 restaurants, accumulate stars: 14.0
+birthday girl exist in 4.0 restaurants, accumulate stars: 14.5
+tap water exist in 29.0 restaurants, accumulate stars: 96.0
+truffle exist in 9.0 restaurants, accumulate stars: 32.0
+short rib tacos exist in 1.0 restaurants, accumulate stars: 3.0
+profiterole exist in 1.0 restaurants, accumulate stars: 3.5
+sesame seed exist in 15.0 restaurants, accumulate stars: 53.0
+glutinous rice exist in 13.0 restaurants, accumulate stars: 45.5
+pasta exist in 45.0 restaurants, accumulate stars: 156.0
+beef exist in 785.0 restaurants, accumulate stars: 2655.0
+small tacos exist in 1.0 restaurants, accumulate stars: 3.0
+xo sauce exist in 45.0 restaurants, accumulate stars: 156.0
+pork ribs exist in 62.0 restaurants, accumulate stars: 209.0
+neo tokyo exist in 1.0 restaurants, accumulate stars: 4.0
+cantonese restaurant exist in 19.0 restaurants, accumulate stars: 67.5
+foie gras exist in 6.0 restaurants, accumulate stars: 22.5
+mushrooms exist in 269.0 restaurants, accumulate stars: 935.0
+ciabatta exist in 1.0 restaurants, accumulate stars: 3.0
+chinese american exist in 89.0 restaurants, accumulate stars: 304.0
+punch card exist in 3.0 restaurants, accumulate stars: 11.5
+gazpacho exist in 1.0 restaurants, accumulate stars: 3.0
+porcini mushrooms exist in 1.0 restaurants, accumulate stars: 3.0
+health food exist in 6.0 restaurants, accumulate stars: 19.5
+fish fry exist in 2.0 restaurants, accumulate stars: 8.0
+salad dressing exist in 17.0 restaurants, accumulate stars: 59.5
+strawberries exist in 26.0 restaurants, accumulate stars: 92.5
+bread pudding exist in 3.0 restaurants, accumulate stars: 10.5
+chocolate glaze exist in 2.0 restaurants, accumulate stars: 8.5
+chicken fajitas exist in 2.0 restaurants, accumulate stars: 6.5
+fast casual exist in 16.0 restaurants, accumulate stars: 56.0
+debit card exist in 17.0 restaurants, accumulate stars: 53.5
+sauvignon blanc exist in 2.0 restaurants, accumulate stars: 8.0
+penne exist in 3.0 restaurants, accumulate stars: 8.5
+huevos rancheros exist in 1.0 restaurants, accumulate stars: 3.0
+zongzi exist in 1.0 restaurants, accumulate stars: 3.5
+love happy exist in 4.0 restaurants, accumulate stars: 13.0
+capers exist in 1.0 restaurants, accumulate stars: 2.5
+fruit salad exist in 10.0 restaurants, accumulate stars: 32.5
+bay area exist in 101.0 restaurants, accumulate stars: 356.5
+gelato exist in 9.0 restaurants, accumulate stars: 32.5
+kanji exist in 1.0 restaurants, accumulate stars: 3.0
+black beans exist in 33.0 restaurants, accumulate stars: 117.0
