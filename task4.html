@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title> Task4: Popular Dish</title>
+<style>
+
+</style>
+
+<head>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+  <meta content="utf-8" http-equiv="encoding">
+  <link rel="stylesheet" href="css/jquery-ui.min.css" />
+  <script src="js/d3.min.js" charset="utf-8"></script>
+  <script src="js/jquery-2.1.4.min.js" charset="utf-8"></script>
+  <script src="js/jquery-ui.min.js" charset="utf-8"></script>
+</head>
+
+<body>
+    <div>
+        <a href="./task5.html"> to task5 </a>
+    </div>
+
+    <div id="canvas1"></div>
+    <div id="canvas2"></div>
+
+    <script>
+
+        //draw f_popularity
+        $.getJSON( "data/f_popularity_map.json", function( data ) {
+          var items = [];
+          $.each( data, function( key, val ) {
+            items.push( "<li id='" + key + "'>" + val + "</li>" );
+          });
+         
+          $( "<ul/>", {
+            "class": "my-new-list",
+            html: items.join( "" )
+          }).appendTo( "body" );
+        });
+
+        //draw v_popularity
+        $.getJSON( "data/f_popularity_map.json", function( data ) {
+          var items = [];
+          $.each( data, function( key, val ) {
+            items.push( "<li id='" + key + "'>" + val + "</li>" );
+          });
+         
+          $( "<ul/>", {
+            "class": "my-new-list",
+            html: items.join( "" )
+          }).appendTo( "body" );
+        });
+
+    </script>
+</body>
+
+
