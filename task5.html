@@ -87,8 +87,11 @@
             console.log(dish_name);
             console.log(dish_data[dish_name]);
 
-            var items = dish_data[dish_name];
-            items.unshift(["restaurant","popularity"]);
+            var items = [
+                          ["restaurant","popularity"]
+                        ];
+            items = items.concat(dish_data[dish_name]);
+            console.log(items);
             var data = google.visualization.arrayToDataTable(items);
             var view = new google.visualization.DataView(data);
 
