@@ -12,6 +12,7 @@
   <script src="js/d3.min.js" charset="utf-8"></script>
   <script src="js/jquery-2.1.4.min.js" charset="utf-8"></script>
   <script src="js/jquery-ui.min.js" charset="utf-8"></script>
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 </head>
 
 <body>
@@ -23,32 +24,84 @@
     <div id="canvas2"></div>
 
     <script>
+        google.load("visualization", "1.1", {packages:["corechart"]});
+        google.setOnLoadCallback(drawStuff);
 
-        //draw f_popularity
-        $.getJSON( "data/f_popularity_map.json", function( data ) {
-          var items = [];
-          $.each( data, function( key, val ) {
-            items.push( "<li id='" + key + "'>" + val + "</li>" );
-          });
-         
-          $( "<ul/>", {
-            "class": "my-new-list",
-            html: items.join( "" )
-          }).appendTo( "body" );
-        });
+        function drawStuff(){
+            //draw f_popularity on canvas1
+            $.getJSON( "data/f_popularity_map.json", function( data ) {
+                //console.log(data);
+                var items = [];
+                items.push(["name","popularity"])
+                $.each( data, function( key, val ) {
+                  if(key>100)
+                    return;
+                  items.push( [val["name"], val["pop"] ]);
+                });
+                console.log(items);
 
-        //draw v_popularity
-        $.getJSON( "data/f_popularity_map.json", function( data ) {
-          var items = [];
-          $.each( data, function( key, val ) {
-            items.push( "<li id='" + key + "'>" + val + "</li>" );
-          });
-         
-          $( "<ul/>", {
-            "class": "my-new-list",
-            html: items.join( "" )
-          }).appendTo( "body" );
-        });
+                var data = google.visualization.arrayToDataTable(items);
+                var view = new google.visualization.DataView(data);
+                /*
+                view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" }]);
+                */
+
+                var options = {
+                    title: "dish popularity , use f-measure like evaluation: popularity = 2*M*N/(M+N), M=stars_from_reviews, N=stars_from_restaurants",
+                    width: "95%",
+                    height: 800,
+                    bar: {groupWidth: "90%"},
+                    legend: { position: "none" },
+                    hAxis: {
+                        slantedText:true,
+                        slantedTextAngle:60 // here you can even use 180
+                    }
+                };
+                var chart = new google.visualization.ColumnChart(document.getElementById("canvas1"));
+                chart.draw(view, options);
+            });
+
+            //draw v_popularity on canvas2
+            $.getJSON( "data/v_popularity_map.json", function( data ) {
+                console.log(data);
+                var items = [];
+                items.push(["name","popularity"])
+                $.each( data, function( key, val ) {
+                  if(key>100)
+                    return;
+                  items.push( [val["name"], val["pop"] ]);
+                });
+
+                var data = google.visualization.arrayToDataTable(items);
+                var view = new google.visualization.DataView(data);
+                /*
+                view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" }]);
+                */
+
+                var options = {
+                    title: "dish popularity , use vector-length like evaluation: popularity = (M^2+N^2)^(1/2), M=stars_from_reviews, N=stars_from_restaurants",
+                    width: "95%",
+                    height: 800,
+                    bar: {groupWidth: "90%"},
+                    legend: { position: "none" },
+                    hAxis: {
+                        slantedText:true,
+                        slantedTextAngle:60 // here you can even use 180
+                    }
+                };
+                var chart = new google.visualization.ColumnChart(document.getElementById("canvas2"));
+                chart.draw(view, options);
+            });
+
+        }
 
     </script>
 </body>

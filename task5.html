@@ -12,42 +12,100 @@
   <script src="js/d3.min.js" charset="utf-8"></script>
   <script src="js/jquery-2.1.4.min.js" charset="utf-8"></script>
   <script src="js/jquery-ui.min.js" charset="utf-8"></script>
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 </head>
 
 <body>
     <div>
-        <a href="./task5.html"> to task5 </a>
+        <a href="./task4.html"> to task4 </a>
+    </div>
+
+    <div>
+        <span>Choose a dish</span>
+        <span>
+            <select id="dish_selector">
+            </select>
+        </span>
+      
     </div>
 
     <div id="canvas"></div>
 
     <script>
+        google.load("visualization", "1.1", {packages:["corechart"]});
+        google.setOnLoadCallback(prepare);
 
-        //draw f_popularity
-        $.getJSON( "data/f_popularity_map.json", function( data ) {
-          var items = [];
-          $.each( data, function( key, val ) {
-            items.push( "<li id='" + key + "'>" + val + "</li>" );
-          });
-         
-          $( "<ul/>", {
-            "class": "my-new-list",
-            html: items.join( "" )
-          }).appendTo( "body" );
-        });
+        var restaurant_names = {};
+        var dish_data = {};
 
-        //draw v_popularity
-        $.getJSON( "data/f_popularity_map.json", function( data ) {
-          var items = [];
-          $.each( data, function( key, val ) {
-            items.push( "<li id='" + key + "'>" + val + "</li>" );
-          });
-         
-          $( "<ul/>", {
-            "class": "my-new-list",
-            html: items.join( "" )
-          }).appendTo( "body" );
-        });
+        function prepare(){
+            //prepare dish->restaurant->start data
+            $.getJSON( "data/dish_restaurant_info.json", function( data ) {
+              console.log(data);
+
+              restaurant_names = data["restaurant_names"];
+              var skip_dish = [];
+
+              $.each( data["dish_data"], function( dish_name, restaurant_stars ) {
+                  if(Object.keys(restaurant_stars).length < 30){
+                      skip_dish.push(dish_name);
+                      return;
+                  }
+
+                  //append option to select
+                  var option = document.createElement("option");
+                  option.text = dish_name;
+                  option.value = dish_name;
+                  document.getElementById("dish_selector").appendChild(option);
+
+                  //sort data by restaurant popularity
+                  var keysSorted = Object.keys(restaurant_stars).sort(function(a,b){return restaurant_stars[b]-restaurant_stars[a]})
+                  var sortedData = [];
+                  $.each( keysSorted, function( order, rest_id){
+                      sortedData.push(  [ restaurant_names[rest_id] , restaurant_stars[rest_id] ]
+                                        );
+                  });
+                  dish_data[ dish_name ] = sortedData.slice(0,101); //get at most 100 restaurant
+                  //console.log(sortedData);
+              });
+              
+              console.log(skip_dish);
+
+              $("#dish_selector").on("change",function(){
+                  var target = $("#dish_selector option:selected")[0];
+                  //console.log(target);
+                  drawChart( target.value );
+              });
+
+              var initial_option = $("#dish_selector option")[0];
+              drawChart(initial_option.value);
+
+            });
+        }
+
+        function drawChart(dish_name){
+            console.log(dish_name);
+            console.log(dish_data[dish_name]);
+
+            var items = dish_data[dish_name];
+            items.unshift(["restaurant","popularity"]);
+            var data = google.visualization.arrayToDataTable(items);
+            var view = new google.visualization.DataView(data);
+
+            var options = {
+                title: "restaurant popularity(accumulated stars) for dish: " + dish_name,
+                width: "95%",
+                height: 800,
+                bar: {groupWidth: "90%"},
+                legend: { position: "none" },
+                hAxis: {
+                    slantedText:true,
+                    slantedTextAngle:60 // here you can even use 180
+                }
+            };
+            var chart = new google.visualization.ColumnChart(document.getElementById("canvas"));
+            chart.draw(view, options);
+        }
 
     </script>
 </body>
