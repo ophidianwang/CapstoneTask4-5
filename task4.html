@@ -28,9 +28,10 @@
         google.setOnLoadCallback(drawStuff);
 
         function drawStuff(){
-            //draw f_popularity on canvas1
-            $.getJSON( "data/f_popularity_map.json", function( data ) {
-                //console.log(data);
+
+            //draw v_popularity on canvas1
+            $.getJSON( "data/v_popularity_map.json", function( data ) {
+                console.log(data);
                 var items = [];
                 items.push(["name","popularity"])
                 $.each( data, function( key, val ) {
@@ -38,20 +39,12 @@
                     return;
                   items.push( [val["name"], val["pop"] ]);
                 });
-                console.log(items);
 
                 var data = google.visualization.arrayToDataTable(items);
                 var view = new google.visualization.DataView(data);
-                /*
-                view.setColumns([0, 1,
-                       { calc: "stringify",
-                         sourceColumn: 1,
-                         type: "string",
-                         role: "annotation" }]);
-                */
 
                 var options = {
-                    title: "dish popularity , use f-measure like evaluation: popularity = 2*M*N/(M+N), M=stars_from_reviews, N=stars_from_restaurants",
+                    title: "Popular Dishes , use vector-length like evaluation: popularity = (M^2+N^2)^(1/2), M=stars_from_reviews, N=stars_from_restaurants",
                     width: "95%",
                     height: 800,
                     bar: {groupWidth: "90%"},
@@ -65,9 +58,9 @@
                 chart.draw(view, options);
             });
 
-            //draw v_popularity on canvas2
-            $.getJSON( "data/v_popularity_map.json", function( data ) {
-                console.log(data);
+            //draw f_popularity on canvas2
+            $.getJSON( "data/f_popularity_map.json", function( data ) {
+                //console.log(data);
                 var items = [];
                 items.push(["name","popularity"])
                 $.each( data, function( key, val ) {
@@ -75,19 +68,13 @@
                     return;
                   items.push( [val["name"], val["pop"] ]);
                 });
+                console.log(items);
 
                 var data = google.visualization.arrayToDataTable(items);
                 var view = new google.visualization.DataView(data);
-                /*
-                view.setColumns([0, 1,
-                       { calc: "stringify",
-                         sourceColumn: 1,
-                         type: "string",
-                         role: "annotation" }]);
-                */
 
                 var options = {
-                    title: "dish popularity , use vector-length like evaluation: popularity = (M^2+N^2)^(1/2), M=stars_from_reviews, N=stars_from_restaurants",
+                    title: "Popular Dishes , use f-measure like evaluation: popularity = 2*M*N/(M+N), M=stars_from_reviews, N=stars_from_restaurants",
                     width: "95%",
                     height: 800,
                     bar: {groupWidth: "90%"},
