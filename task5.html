@@ -13,6 +13,8 @@
   <script src="js/jquery-2.1.4.min.js" charset="utf-8"></script>
   <script src="js/jquery-ui.min.js" charset="utf-8"></script>
   <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+  <link href="js/select2-3.5.1/select2.css" rel="stylesheet"/>
+  <script src="js/select2-3.5.1/select2.js"></script>
 </head>
 
 <body>
@@ -70,6 +72,12 @@
               });
               
               console.log(skip_dish);
+
+              $('#dish_selector').select2({
+                  placeholder: "choose/search a dish",
+                  width: "400px",
+                  allowClear: true
+              });
 
               $("#dish_selector").on("change",function(){
                   var target = $("#dish_selector option:selected")[0];
